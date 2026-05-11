@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity">
+    <sys_rte_eb_etl_entity action="DELETE">
+        <child_id_field/>
+        <name>IHUB_TARGET_TEMP_x_58872_needit_needit</name>
+        <parent_entity/>
+        <parent_id_field/>
+        <path>Temp_x_58872_needit_needit</path>
+        <run_business_rules>false</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>sys_rte_eb_etl_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-11 09:49:05</sys_created_on>
+        <sys_id>34442b19c33403103bd4dd777d0131bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_TARGET_TEMP_x_58872_needit_needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Historic NeedIt Data_etl_ihub">64442719c33403103bd4dd777d013130</sys_rte_eb_definition>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_entity_34442b19c33403103bd4dd777d0131bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-11 09:49:05</sys_updated_on>
+        <table/>
+    </sys_rte_eb_etl_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>322010dddb62f19838f11729139619b8</instance_id>
+        <instance_name>dev212237</instance_name>
+        <name>sys_rte_eb_etl_entity_34442b19c33403103bd4dd777d0131bb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity"><sys_rte_eb_etl_entity action="INSERT_OR_UPDATE"><child_id_field/><name>IHUB_TARGET_TEMP_x_58872_needit_needit</name><parent_entity/><parent_id_field/><path>Temp_x_58872_needit_needit</path><run_business_rules>false</run_business_rules><synchronize_inserts>false</synchronize_inserts><sys_class_name>sys_rte_eb_etl_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-11 09:49:05</sys_created_on><sys_id>34442b19c33403103bd4dd777d0131bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>IHUB_TARGET_TEMP_x_58872_needit_needit</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_rte_eb_definition display_value="Historic NeedIt Data_etl_ihub">64442719c33403103bd4dd777d013130</sys_rte_eb_definition><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_rte_eb_etl_entity_34442b19c33403103bd4dd777d0131bb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-11 09:49:05</sys_updated_on><table/></sys_rte_eb_etl_entity></record_update>]]></payload>
+        <payload_hash>-914520232</payload_hash>
+        <record_name>IHUB_TARGET_TEMP_x_58872_needit_needit</record_name>
+        <reverted_from/>
+        <source>d9a1d391c3b003103bd4dd777d01313b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-11 09:49:05</sys_created_on>
+        <sys_id>34442b19c33403103bd4dd777d0131be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19e1670b2fc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-11 09:49:05</sys_updated_on>
+        <type>ETL Entity</type>
+        <update_guid>f0442b19d8340310976cf180058d36bd</update_guid>
+        <update_guid_history>f0442b19d8340310976cf180058d36bd:-914520232</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-11 09:57:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_entity">sys_rte_eb_etl_entity</sys_db_object>
+        <sys_id>4d754576037f4e48a15789d37808f604</sys_id>
+        <sys_metadata>34442b19c33403103bd4dd777d0131bb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_TARGET_TEMP_x_58872_needit_needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_entity_34442b19c33403103bd4dd777d0131bb</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_entity_34442b19c33403103bd4dd777d0131bb">34442b19c33403103bd4dd777d0131be</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-11 09:57:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
